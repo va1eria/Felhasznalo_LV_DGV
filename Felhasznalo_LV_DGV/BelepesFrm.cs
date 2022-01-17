@@ -12,6 +12,7 @@ namespace Felhasznalo_LV_DGV
 {
     public partial class BelepesFrm : Form
     {
+        //felh : admin jelszo : 123456
         Felhasznalo felhasznalo;
         public BelepesFrm()
         {
